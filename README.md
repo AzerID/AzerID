@@ -3,3 +3,4 @@
 
 ## My Project
 * [InterDOS](https://github.com/AzerID/interdos), an Operating System based on MikeOS.
+* [Win95KeyGen](https://github.com/AzerID/win95keygen), Generate 30 sets of Windows 95 Product Key.
